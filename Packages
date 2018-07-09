@@ -20,7 +20,7 @@ Version: 5
 Architecture: iphoneos-arm
 Maintainer: @albyvar25
 Filename: /debs/ncsett5.deb
-Depends: firmware (>= 5.0) mobilesubstrate com.chpwn.weeloader preferenceloader 
+Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader 
 Size: 390398
 MD5sum: d4b619962014bbe3c440280bbea2aee6
 SHA1: b1ac8f345b20b5cac9ebbdb18f0e3d3e6c91f0e8
