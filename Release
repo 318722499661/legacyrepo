@@ -1,0 +1,9 @@
+Origin: Legacy iOS Repo
+Label: Legacy iOS Repo
+Suite: stable
+Version: 1.0
+Codename: legacyrepo
+Architectures: iphoneos-arm
+Components: main
+Description: A cydia repo for iOS 6.x and older.
+MD5Sum:

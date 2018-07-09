@@ -1,0 +1,16 @@
+
+Package: com.chpwn.weeloader
+Version: 5
+Architecture: iphoneos-arm
+Maintainer: @albyvar25
+Filename: /debs/weeloader-ios5.deb
+Depends: firmware (<6.0), mobilesubstrate
+Size: 3528
+MD5sum: eb29a698a1634ac9edfd8b17e3e0f822
+SHA1: f18a2abec1e5041e48c404328797bef79a4f4f43
+SHA256: 8cc7dffcaf568c6a6682b8ed31622a69ba4b9ae1e50bfca4335d7f0ca8022a6a
+Section: Development
+Description: Weeloader for iOS 5.x
+Author: joedj <weeloader@joedj.net>
+Name: Weeloader for iOS 5.x
+Depiction: https://albyvar.github.io/legacyrepo/depics/weeloader5/index.html
