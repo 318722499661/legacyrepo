@@ -14,3 +14,19 @@ Description: Weeloader for iOS 5.x
 Author: joedj <weeloader@joedj.net>
 Name: Weeloader for iOS 5.x
 Depiction: https://albyvar.github.io/legacyrepo/depics/weeloader5/index.html
+
+Package: com.jamied360.ncsettings
+Version: 5
+Architecture: iphoneos-arm
+Maintainer: @albyvar25
+Filename: /debs/ncsett5.deb
+Depends: firmware (>= 5.0) mobilesubstrate com.chpwn.weeloader preferenceloader 
+Size: 390398
+MD5sum: d4b619962014bbe3c440280bbea2aee6
+SHA1: b1ac8f345b20b5cac9ebbdb18f0e3d3e6c91f0e8
+SHA256: 719854839ce14d4830f7cf869ea20407956ca0f51950dea4abd9c6b72a5024a1
+Section: Addons (NotificationCenter)
+Description: NCSettings is a sleek Notification Center toggle widget
+Author: JamieD360
+Name: NCSettings for iOS 5
+Depiction: https://albyvar.github.io/legacyrepo/depics/ncsett5/index.html
